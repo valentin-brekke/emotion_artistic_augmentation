@@ -8,7 +8,7 @@ This project integrates computer vision and artistic expression to augment image
 - **Emotion Classification:** Employs Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to identify emotions from facial expressions.
 - **Style Transfer:** Applies artistic styles corresponding to detected emotions using the method developed by Gatys et al. This involves extracting and combining content and style features from images.
 
-![Pipeline Overview](images/pipeline_overview.png)
+![Pipeline Overview](images/overview.png)
 
 ## Project Inspiration
 
